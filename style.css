@@ -15,6 +15,7 @@ p {
 #essayBody {
     display: flex;
     align-items: center;
+    vertical-align: middle;
     max-width: 900px;
     margin: auto;
 }
@@ -23,15 +24,16 @@ p {
 
 .box {
     border: solid 3.33mm #FC7EED;
-    border-radius: 33em;
-    min-width: 900px;
+    border-radius: 100%;
+    min-width: 666px;
     overflow: scroll;
-    max-height: 900px;
+    max-height: 666px;
+    margin: auto;
 }
 
 .textBox {
-    width: 600px;
+    width: 555px;
     margin: auto;
-    padding: 3em;
-    padding-bottom: 6em;
+    padding: 3.33em;
+    padding-bottom: 6.66em;
 }
