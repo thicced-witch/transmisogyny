@@ -1,3 +1,5 @@
+/* Font Styling */
+
 h1 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 36px;
@@ -21,15 +23,47 @@ p {
     margin: auto;
 }
 
+#archive {
+    margin: auto;
+    max-width: 900px;
+    text-align: center;
+}
+
 /* GLOBAL CLASS styling */
 
+.archive {
+    text-align: center;
+    margin-top: .33em;
+}
 .box {
     border: solid 3.33mm #FC7EED;
     border-radius: 100%;
-    min-width: 666px;
+    max-width: 666px;
     overflow: scroll;
     max-height: 666px;
     margin: auto;
+}
+
+.button {
+    background-color: #FC7EED;
+    color: white;
+    border: solid .33em white;
+    border-radius: 3em;
+    padding: 1em;
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-transform: uppercase;
+    text-decoration: bold;
+}
+
+.button:hover {
+    background-color: black;
+}
+
+.button:active {
+    background-color: white;
+    border: solid .33em #FC7EED;
+    color: black;
 }
 
 .textBox {
@@ -37,4 +71,21 @@ p {
     margin: auto;
     padding: 3.33em;
     padding-bottom: 6.66em;
+}
+
+/* MOBILE RENDERING */
+
+@media (max-width: 666px) {
+    .box {
+        max-width: 333px;
+        max-height: 333px;
+    }
+    .textBox {
+        width: auto
+    }
+    h1 {font-size: 26px;
+    }
+    p {
+        font-size: 20px;
+    }
 }
