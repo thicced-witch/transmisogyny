@@ -16,6 +16,9 @@ for (let archive of archiveText) {
         if (textBox.innerText != null) {
             textBox.innerText = null;
         }
+        if (textBox.scrollTop != 0) {
+            textBox.scrollTop = 0;
+        }
         textBox.innerHTML = `${archive.body}`
     })
 }
