@@ -33,4 +33,14 @@ The <b>active trans/misogynist</b> is someone aware of their Trans/Misogynistic-
 <br/><br/>Regardless of whether passive or active, <br/>Trans/Misogynistic-Bias will always reach towards the same conclusion;  Affirmation of gender as real, and perpetuation of the class system created by the gender binary.
     </p>`
 },
+{
+    name: 'Trans/Misogynistic-Bias and Classification',
+    body: `<h1>Trans/Misogynistic-Bias <br/>and Classification</h1>
+    <p>
+        At its core, the Gender Binary–as well as Trans/Misogynistic-Bias–exists to create an oppressed class. This oppressed class is what we recognize as Women, and its oppression is facilitated by the logic of misogynistic-bias, which asserts that women are inherently lesser than those outside of the oppressed class (Women < Men = TRUE). <br/><br/>The creation of an oppressed class carries with it the creation of a non-oppressed class, consisting of those who are not women. This non-oppressed class is what we recognize as Men.
+        The classes of Women and Men are defined by the phenomena of femininity and masculinity.<br/><br/> The traits which make up these phenomena differ between cultures, but they can be found in both the physical, such as shape and sound, and the abstract, such as behavior & thought. Trans/Misogynistic-Bias superimposes the classes of Women and Men over these phenomena, so that when traits which evoke femininity or masculinity are identified, the individuals who embody these traits are then classified as either Women or Men.<br/><br/>
+        Due to this superimposition, femininity and Women are synonymous within Gendered Reality. As such, traits associated with femininity are subject to the logic of misogynistic-bias. This leads to value neutral qualities such as softness or emotionalism–traits often associated with femininity–to be recognized as lesser. To embody these traits is to embody weakness itself.<br/><br/> Conversely, traits which evoke masculinity become synonymous with strength and power. 
+        Further, since Trans/Misogynistic-Bias is perpetually looping in on itself, so too does this conditioning. Just as femininity is associated with weakness, weakness is associated with femininity. <br/><br/>This leads to traits such as helplessness or naivety being viewed as aspects of femininity, while traits which evoke power, such as intelligence and wealth, become aspects of masculinity. Through this process, Trans/Misogynistic-Bias perpetuates the positioning of Women as being less than Men in every aspect.
+    </p>`
+},
 ]

@@ -34,6 +34,10 @@ p {
 .archive {
     text-align: center;
     margin-top: .33em;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    max-width: 999px;
 }
 .box {
     border: solid 3.33mm #FC7EED;
